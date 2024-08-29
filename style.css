@@ -12,3 +12,37 @@ body{
     margin-left: auto;
     margin-right: auto;
 }
+ .logodoa{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
+  .buttonretorn{
+    color: rgb(15, 158, 39); 
+    text-decoration: none; 
+    font-size: 20px;
+  }
+
+  .lobutton{
+    list-style-type: none;
+  }
+
+  .gif{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .central{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+
+.image-container{
+    height: auto;
+    max-width: 100%;
+    display: flex; 
+    justify-content: center;
+    gap: 200px; 
+}
