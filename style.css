@@ -70,6 +70,7 @@ body{
   position: relative;
   padding-left: 20px;
   margin-top: 0px;
+  align-items: center;
  }
 
 .saolazaro{
@@ -178,4 +179,20 @@ body{
       text-align: center;
       margin: 0 auto; 
       padding: 20px 0;
+  }
+
+  .gatomenor{
+    width: 30%;
+    height: auto;
+  }
+
+  .gatomenor2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    position: relative;
+    top: -50px;
+    width: 30%;
+    height: auto;
+  
   }
