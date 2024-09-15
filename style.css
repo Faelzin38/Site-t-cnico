@@ -5,9 +5,11 @@ body{
     margin: 0;
     padding: 0;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url(10205054.jpg);
+    color: aliceblue;
 }
 .titulo1{
-    color: rgb(21, 247, 134);
+    color: rgb(192, 129, 121);
 }
 .titulo2{
     color: rgb(218, 218, 65);
@@ -23,7 +25,7 @@ body{
     margin-right: auto;
  }
   .buttonretorn{
-    color: rgb(15, 159, 39); 
+    color: rgb(255, 255, 255); 
     text-decoration: none; 
     font-size: 25px;
     position: relative;
@@ -100,7 +102,7 @@ body{
   
   text-decoration: none;
   font-size: 25px;
-  color: rgb(15, 159, 39); 
+  color: rgb(255, 255, 255); 
   position: relative;
   top: -130px;
 }
